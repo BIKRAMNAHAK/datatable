@@ -1,0 +1,29 @@
+*{
+    margin: 0 auto ;
+    box-sizing: border-box;
+}
+
+.header{
+    background-color: rgb(223, 223, 223);
+    height: 60px;
+    box-shadow: 0px 10px 5px rgb(181, 176, 176);
+}
+
+.body-color{
+    background-color: #B0E0E6;
+}
+
+section{
+    padding-top: 100px;
+}
+.button1{
+
+    width: 30px;
+    height: auto;
+    background-color: white;
+    color: black;
+
+}
+.data-table{
+    margin-top: 100px;
+}
